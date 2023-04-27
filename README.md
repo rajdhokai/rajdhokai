@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajdhokai
 - 👀 I’m interested in React js
-- 🌱 I’m currently learning RTK
+- 🌱 I’m currently working on React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rajdhokai2000@gmail.com
 
