@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hey there. I am [Raj Dhokai](https://github.com/rajdhokai) 👋
 
-<p align="left"> 
+<!--<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=rajdhokai&color=blue" alt="rajdhokai" /> 
-</p> 
+</p>--> 
 
-I am a Frontend developer | React Js Developer, obsessed with the idea of constantly improving myself. 
+<p> I am a Frontend developer | React Js Developer, obsessed with the idea of constantly improving myself. </p>
 <br>
  #
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
