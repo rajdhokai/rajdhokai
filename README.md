@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hey there. I am [Raj Dhokai](https://github.com/rajdhokai) 👋
 
-<!-- <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=manan-upadhyay&color=blue" alt="rajdhokai" /> 
-</p> -->
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=rajdhokai&color=blue" alt="rajdhokai" /> 
+</p> 
 
 I am a Frontend developer | React Js Developer, obsessed with the idea of constantly improving myself. 
 <br>
