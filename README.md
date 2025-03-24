@@ -20,7 +20,7 @@ I am a Frontend developer | React Js Developer, obsessed with the idea of consta
 - 🤓 I’m looking to collaborate with React <img height="15px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> projects. <br/>
 
 - 💬 Ask me about anything, I am happy to help 😄 <br/>
-- 📫 How to reach me rajrd1409@gmail.com <br/>
+- 📫 How to reach me rajdhokai0928@gmail.com <br/>
 
 #
 ## Connect with me 🤝 :
