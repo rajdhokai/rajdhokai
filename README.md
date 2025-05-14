@@ -1,39 +1,55 @@
-<!---
-rajdhokai/rajdhokai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hey there. I am [Raj Dhokai](https://github.com/rajdhokai) 👋
+# Hey there! I am [Chintanonweb](https://github.com/chintanonweb) 👋
 
 <!--<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=rajdhokai&color=blue" alt="rajdhokai" /> 
+	<img src="https://komarev.com/ghpvc/?username=chintanonweb&color=blue" alt="chintanonweb" /> 
 </p>--> 
 
-I am a Frontend developer | React Js Developer, obsessed with the idea of constantly improving myself.
-<br>
- #
+I am a passionate **Full Stack Developer** who loves building dynamic, scalable, and performant web applications using modern JavaScript frameworks.
+
+---
+
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on React Js <br/>
+### 🚀 About Me
 
-- 📈 Highly passionate about creating Dynamic Web Applications 🕸 <br/>
+* 🔭 Currently working on Full Stack projects using **React.js**, **Next.js**, and **Node.js**
+* 💻 Skilled in both **Frontend** and **Backend** technologies
+* 🌐 Building responsive, cross-platform web apps with **Tailwind CSS**, **JavaScript**, and **TypeScript**
+* 🤝 Open to collaborate on web development projects using **React**, **Next.js**, **Angular**, and **Express.js**
+* 💬 Ask me about JavaScript, Web APIs, or architecture patterns – happy to help! 😄
+* 📫 How to reach me: **[chintanonweb@gmail.com](mailto:chintanonweb@gmail.com)**
 
-- 🤓 I’m looking to collaborate with React <img height="15px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> projects. <br/>
+---
 
-- 💬 Ask me about anything, I am happy to help 😄 <br/>
-- 📫 How to reach me rajdhokai0928@gmail.com <br/>
+### 🛠️ Tech Stack & Tools
 
-#
-## Connect with me 🤝 :
+* **Frontend:** React.js, Next.js, Angular, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML5, CSS3
+* **Backend:** Node.js, Express.js, REST APIs, MongoDB, Firebase, SQL
+* **Tools & DevOps:** Git, GitHub, Vercel, Netlify, Postman, VS Code
+* **Others:** Responsive Design, Component Architecture, State Management (Redux, Context API), Web Performance Optimization
 
+---
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/raj-d-9982b8217/)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/raj__dhokai/)
-[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:rajdhokai0928@gmail.com)
-<br>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=rajdhokai&show_icons=true" alt="rajdhokai" width="50%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdhokai&layout=compact" alt="rajdhokai" align="right" width="40%"/> </p>
+### 📈 GitHub Stats
 
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=chintanonweb&show_icons=true&theme=radical" alt="chintanonweb" width="50%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintanonweb&layout=compact&theme=radical" alt="chintanonweb" align="right" width="40%"/> 
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/chintanonweb)
+[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/chintanonweb/)
+[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:chintanonweb@gmail.com) <br>
+
+---
 
 <p align="center">
-<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/rajdhokai?tab=repositories"> repositories!</a></h6>
+<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/chintanonweb?tab=repositories">repositories!</a></h6>
+<p align="center">✨ Designed with 💙 by <strong>ChatGPT</strong> to make this profile look more beautiful ✨</p>
 </p>
+
+---
