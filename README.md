@@ -3,7 +3,7 @@ rajdhokai/rajdhokai is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hey there. I am [Raj Dhokai](https://github.com/rajdhokai) 👋
+# Hey there. I am [Raj D](https://github.com/rajdhokai) 👋
 
 <!--<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=rajdhokai&color=blue" alt="rajdhokai" /> 
