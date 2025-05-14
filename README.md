@@ -1,55 +1,57 @@
-# Hey there! I am [Chintanonweb](https://github.com/chintanonweb) 👋
+<!---
+rajdhokai/rajdhokai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+# Hey there. I am [Raj Dhokai](https://github.com/rajdhokai) 👋
 
 <!--<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=chintanonweb&color=blue" alt="chintanonweb" /> 
+	<img src="https://komarev.com/ghpvc/?username=rajdhokai&color=blue" alt="rajdhokai" /> 
 </p>--> 
 
-I am a passionate **Full Stack Developer** who loves building dynamic, scalable, and performant web applications using modern JavaScript frameworks.
-
----
+💻 I’m a **Full Stack Developer** with a strong focus on building modern, performant, and user-friendly web applications.
 
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### 🚀 About Me
+---
 
-* 🔭 Currently working on Full Stack projects using **React.js**, **Next.js**, and **Node.js**
-* 💻 Skilled in both **Frontend** and **Backend** technologies
-* 🌐 Building responsive, cross-platform web apps with **Tailwind CSS**, **JavaScript**, and **TypeScript**
-* 🤝 Open to collaborate on web development projects using **React**, **Next.js**, **Angular**, and **Express.js**
-* 💬 Ask me about JavaScript, Web APIs, or architecture patterns – happy to help! 😄
-* 📫 How to reach me: **[chintanonweb@gmail.com](mailto:chintanonweb@gmail.com)**
+### 🚀 Tech Stack
+
+- **Frontend**: React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Databases**: MongoDB, Firebase, MySQL  
+- **Others**: Git, GitHub, Vercel, Netlify, Postman  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-* **Frontend:** React.js, Next.js, Angular, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML5, CSS3
-* **Backend:** Node.js, Express.js, REST APIs, MongoDB, Firebase, SQL
-* **Tools & DevOps:** Git, GitHub, Vercel, Netlify, Postman, VS Code
-* **Others:** Responsive Design, Component Architecture, State Management (Redux, Context API), Web Performance Optimization
+- 🔭 I’m currently working on Full Stack projects using **React.js** and **Next.js**  
+- 🌱 Continuously learning new technologies in the JavaScript ecosystem  
+- 🤝 I’m looking to collaborate on **React**, **Next.js**, or **Node.js** based projects  
+- 💬 Ask me anything about web development — happy to help 😄  
+- 📫 Reach me: [rajdhokai0928@gmail.com](mailto:rajdhokai0928@gmail.com)
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 Connect with me:
 
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=chintanonweb&show_icons=true&theme=radical" alt="chintanonweb" width="50%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintanonweb&layout=compact&theme=radical" alt="chintanonweb" align="right" width="40%"/> 
+[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/raj-d-9982b8217/)
+[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/codedwraith/)
+[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:rajdhokai0928@gmail.com)  
+<br><br>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdhokai&show_icons=true&theme=radical" alt="rajdhokai GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdhokai&layout=compact&theme=radical" alt="Top Langs" width="40%" align="right"/>
 </p>
-
----
-
-### 🔗 Connect with Me
-
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/chintanonweb)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/chintanonweb/)
-[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:chintanonweb@gmail.com) <br>
 
 ---
 
 <p align="center">
-<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/chintanonweb?tab=repositories">repositories!</a></h6>
-<p align="center">✨ Designed with 💙 by <strong>ChatGPT</strong> to make this profile look more beautiful ✨</p>
+  <h4 align="center">✨ Show some ❤️ by starring a few of my <a href="https://github.com/rajdhokai?tab=repositories">repositories!</a></h4>
 </p>
-
----
